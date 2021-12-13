@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**RobertoBorges98/RobertoBorges98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![readmebanner](https://user-images.githubusercontent.com/55958768/145869166-965f5877-e911-4078-a1d4-264fe91d754d.png)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### I am a 3rd year Software Development Student at George Brown College
+where I have learned and applied many different programming languages, frameworks and runtime environments.
+
+Skills: JS / REACT / NODE.JS Runtime Environment / HTML / CSS / PYTHON & iPYTHON / JAVA / REACT / C# / MONGODB 
+
+[![RobertoBorges98's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertoBorges98)](https://github.com/RobertoBorges98/github-readme-stats)
+
+
+
+
+
