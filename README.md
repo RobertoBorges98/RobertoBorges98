@@ -6,7 +6,7 @@ where I have learned and applied many different programming languages, framework
 
 <img align="right" width="250" height="250" src=https://github.com/RobertoBorges98/RobertoBorges98/blob/main/computer-illustration.png>
 
-Skills: JS / REACT / NODE.JS Runtime Environment / HTML / CSS / PYTHON & iPYTHON / JAVA / REACT / C# / MONGODB 
+Skills: JS REACT NODE.JS Runtime Environment HTML CSS PYTHON & iPYTHON JAVA REACT C# MONGODB 
 
 [![RobertoBorges98's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertoBorges98)](https://github.com/RobertoBorges98/github-readme-stats)
 
