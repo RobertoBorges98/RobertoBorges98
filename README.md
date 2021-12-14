@@ -21,17 +21,14 @@ I have learned and applied many different programming languages, frameworks and 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsRobertoBorges)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=itsRobertoBorges) 
 
-
-
- 
-
 [![RobertoBorges98's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsRobertoBorges)](https://github.com/itsRobertoBorges/github-readme-stats)
 
- 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22pmagzu6bktkx25ihuwjcsqq&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 
 
