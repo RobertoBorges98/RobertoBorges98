@@ -6,6 +6,8 @@ I have learned and applied many different programming languages, frameworks and 
 
 <img align="right" width="250" height="250" src=https://github.com/RobertoBorges98/RobertoBorges98/blob/main/computer-illustration.png>
 
+
+
 **Languages and Tools:**
 <br>
 
@@ -25,8 +27,6 @@ I have learned and applied many different programming languages, frameworks and 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsRobertoBorges)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=itsRobertoBorges) 
-
-[![RobertoBorges98's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsRobertoBorges)](https://github.com/itsRobertoBorges/github-readme-stats)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22pmagzu6bktkx25ihuwjcsqq&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
